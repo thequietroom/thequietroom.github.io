@@ -61,7 +61,7 @@ body{
   line-height: 50px;
   animation: scale 3.5s linear alternate;
   animation-fill-mode: forwards;
-  animation-iteration-count: 2;
+  animation-iteration-count: 6;
   animation-delay: 3s;
 }
 
@@ -109,7 +109,7 @@ body{
   margin-left: 63px;
   animation: fadein 3.5s ease-in-out alternate;
   animation-delay: 3s;
-  animation-iteration-count: 2;
+  animation-iteration-count: 6;
   animation-fill-mode: forwards;
   margin-top: 50px;
 }
@@ -118,7 +118,7 @@ body{
   margin: auto;
   animation: fadein 3.5s ease-in-out alternate backwards;
   animation-delay: 6s;
-  animation-iteration-count: 1;
+  animation-iteration-count: 5;
   margin-top: 70px;
 }
 
