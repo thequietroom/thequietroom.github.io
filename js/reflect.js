@@ -7,6 +7,7 @@ var $body = $('<body>');
 var $button = $('<a>');
 $button.addClass("btn");
 $button.addClass("pill");
+$button.addClass("hvr-pop");
 $button.append("Back");
 var q1input  = document.getElementById("q1");
 var q2input  = document.getElementById("q2");
