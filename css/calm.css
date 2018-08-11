@@ -89,7 +89,7 @@ body{
   font-size: 32px;
   text-align: center;
   animation: fadein 2s linear backwards;
-  animation-delay: 10s;
+  animation-delay: 15s;
   position: relative;
   margin-top: 20px;
 }
